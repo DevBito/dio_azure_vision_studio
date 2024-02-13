@@ -19,25 +19,30 @@ Mas o objetivo da minha tarefa era outro... Bom, segue abaixo os outputs que obt
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/03da83a9-bf5b-450a-bbba-95bfdb55668b)
 
 ## Mais reconhecimento de texto:
-![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/11679ade-b390-41ac-ac92-c32f5812875f)
 _pegou até o número miúdo_
-![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/0e03eef6-32bb-4edf-9e4c-7cfcb01e519e)
+![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/11679ade-b390-41ac-ac92-c32f5812875f)
+
 _reconhece a escrita a punho muito bem_
+![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/0e03eef6-32bb-4edf-9e4c-7cfcb01e519e)
 
 E é isso galera!
 
 ## Bom, segue um extra da ferramenta:
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/a7843a99-2bf7-49a3-86a4-60f152e6ef77)
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/7aafd028-6e10-48e2-b8d0-ec305ecc1c3d)
+
 #### Remove Background
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/6a53e7ce-8ff0-4322-8c15-86d9252ab241)
+
 #### Extrai tags de uma imagem
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/89a6b600-1d1b-4d43-a044-97d9a926b712)
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/a166bc1b-cc45-4429-aee7-8a3a42e38c6c)
+
 #### Gera legendas
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/8c57d6a6-3e7f-4437-b0ea-c4840e2060b1)
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/460849c7-89ef-447b-ae5b-f409647b45ea)
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/79509cee-76aa-4c97-b8bf-e951e0c109d7)
+
 #### Gera mais legendas de acordo com o cenário
 ![image](https://github.com/DevBito/dio_azure_vision_studio/assets/141591990/0b3f2263-2c43-4429-be14-7abfe019f228)
 
